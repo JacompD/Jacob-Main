@@ -1,0 +1,9 @@
+C:\Users\Onyebuchi\Desktop\PracticalCode\SynonymsDictionary\SynonymsDictionary\bin\Debug\SynonymsDictionary.exe
+C:\Users\Onyebuchi\Desktop\PracticalCode\SynonymsDictionary\SynonymsDictionary\bin\Debug\SynonymsDictionary.pdb
+C:\Users\Onyebuchi\Desktop\PracticalCode\SynonymsDictionary\SynonymsDictionary\bin\Debug\SynonymsDictionary.xml
+C:\Users\Onyebuchi\Desktop\PracticalCode\SynonymsDictionary\SynonymsDictionary\obj\x86\Debug\SynonymsDictionary.Form1.resources
+C:\Users\Onyebuchi\Desktop\PracticalCode\SynonymsDictionary\SynonymsDictionary\obj\x86\Debug\SynonymsDictionary.Resources.resources
+C:\Users\Onyebuchi\Desktop\PracticalCode\SynonymsDictionary\SynonymsDictionary\obj\x86\Debug\SynonymsDictionary.vbproj.GenerateResource.Cache
+C:\Users\Onyebuchi\Desktop\PracticalCode\SynonymsDictionary\SynonymsDictionary\obj\x86\Debug\SynonymsDictionary.exe
+C:\Users\Onyebuchi\Desktop\PracticalCode\SynonymsDictionary\SynonymsDictionary\obj\x86\Debug\SynonymsDictionary.xml
+C:\Users\Onyebuchi\Desktop\PracticalCode\SynonymsDictionary\SynonymsDictionary\obj\x86\Debug\SynonymsDictionary.pdb
